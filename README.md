@@ -34,7 +34,7 @@ The dataset used in this project contains information such as:
 ## 📜 How to Run the Project
 ```bash
 # Clone the repository
-git clone https://github.com/Rushi029/uber-data-analysis.git
+git clone https://github.com/Rushi029/Uber-Data-Analysis-using-python.git
 
 # Install required dependencies
 pip install -r requirements.txt
